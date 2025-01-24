@@ -14,12 +14,12 @@ Features:
 
 ## Installation
 
-To use this card, you will also need a sensor that provides public transport data. You can create such sensors using the [HA-HBS-Ulm-Transport-Integration](https://github.com/horsebatterystaple/ha-hbs-ulm-transport-integration?tab=readme-ov-file).
+To use this card, you will also need a sensor that provides public transport data. You can create such sensors using the [HA-HBS-Ulm-Transport-Integration](https://github.com/horsebatterystaple/ha-hbs-ulm-transport-integration?tab=readme-ov-file).*
 
 1. Download the .js file for this card and save it in the www/ directory of your Home Assistant configuration folder.
 2. Add the file as a resource in Home Assistant:
   + Navigate to Settings > Dashboards > Resources.
-  +. Click Add Resource and enter the path to the file (e.g., /local/custom-timetable-card.js) with the type set to JavaScript Module.
+  + Click Add Resource and enter the path to the file (e.g., /local/custom-timetable-card.js) with the type set to JavaScript Module.
 
 
 
@@ -69,4 +69,8 @@ route_position: 80
 ### 2. 
 
 <img width="413" alt="image" src="https://github.com/user-attachments/assets/e40474c8-b612-4250-b00f-66a4c4768de0" />
+
+
+# * Stop Points
+Stop Points can be finde in StopPointCodes.txt can´t finde then online anymore. Moreover i think you can only use Stops without platforms.
 
