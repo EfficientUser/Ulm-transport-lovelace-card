@@ -72,5 +72,5 @@ route_position: 80
 
 
 # * Stop Points
-Stop Points can be finde in StopPointCodes.txt can´t finde then online anymore. Moreover i think you can only use Stops without platforms.
+Stop Points can be found in StopPointCodes.txt . Moreover i think you can only use Stops without platforms.
 
