@@ -1,4 +1,4 @@
-# Ulm (swu) public transport lovelace-card
+# Ulm (SWU) public transport home assistant card
 
 The Custom Timetable Card is a Lovelace card for Home Assistant that displays public transport departure times from SWU. It offers extensive filtering and customization options, allowing you to tailor the displayed data to your needs.
 
